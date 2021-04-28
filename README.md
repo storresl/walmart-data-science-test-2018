@@ -31,8 +31,7 @@ Te invitamos a responder lo siguiente:
 2. Determine cuál es el clúster de mejores clientes. 
 3. Para el clúster anterior, encuentre cuáles son los 15 productos más relevantes. 
 
-Los preguntas anteriores son bastante abiertas, esperamos que preguntas como: ¿Qué variables construir para la clusterización?, ¿Cómo 
-normalizarlas?, ¿Cómo defino a un "buen" cliente, es acaso el que más compra o el que más veces compra? ¿Cómo defino 
+Los preguntas anteriores son bastante abiertas, **esperamos que te propongas y respondas preguntas como**: ¿Qué variables construir para la clusterización?, ¿Cómo normalizarlas?, ¿Cómo defino a un "buen" cliente, es acaso el que más compra o el que más veces compra? ¿Cómo defino 
 la relevancia de un producto?, etc.
 
 El formato de entrega puede ser **Python Notebook** o **R Markdown**. El Plazo límite de entrega: **Miércoles 19 de diciembre, 
